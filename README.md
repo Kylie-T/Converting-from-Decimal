@@ -1,2 +1,2 @@
 # Converting-from-Decimal
-This converts a decimal number to another base up to base 9
+This converts a decimal number to another base now up to base 16
