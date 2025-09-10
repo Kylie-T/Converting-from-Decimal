@@ -8,6 +8,9 @@ class Decimal {
 
     private double num;
     private int base;
+    public boolean mayRun = true;
+    public int[] hexNum = {10,11,12,13,14,15};
+    public char[] hexLet = {'A','B','C','D','E','F'};
 
     public Decimal(double num, int base) {
         this.num = num;
